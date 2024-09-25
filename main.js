@@ -7,6 +7,8 @@
     return lado*lado;
  }
  console.log (calcularAreaQuadrado (5));
+ let numero=prompt('')
+ document.write (prompt )
  let media= function (x,y,z){
     return x+y+z/3;
  }
