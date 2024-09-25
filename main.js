@@ -13,3 +13,4 @@
     return x+y+z/3;
  }
  console.log (media (4, 5, 6))
+ 
