@@ -7,7 +7,7 @@
     return lado*lado;
  }
  console.log (calcularAreaQuadrado (5));
- let numero=prompt('')
+ let numero=prompt('qual sua idade?')
  document.write (prompt)
  let media= function (x,y,z){
     return x+y+z/3;
