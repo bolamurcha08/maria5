@@ -26,5 +26,4 @@ for(let i=0;estados.length;i++){
 console.log(index);
 console.log(estados[index]);
 
-
 }
