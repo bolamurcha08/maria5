@@ -24,7 +24,7 @@ i++;
 }
 for(let i=0;estados.length;i++){
 console.log(i);
-console.log(estados[i]);
+console.log(estados[index]);
 
 
 }
