@@ -23,7 +23,7 @@ console.log( estados[i]);
 i++;
 }
 for(let i=0;estados.length;i++){
-console.log(i);
+console.log(index);
 console.log(estados[index]);
 
 
