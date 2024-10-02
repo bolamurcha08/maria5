@@ -15,15 +15,15 @@
 //  console.log (media (4, 5, 6))
  
 
-let estados =['PR','RJ','AC','AL','AP','AM','BA','CE','DF', 'ES','GO','MA','MT','MS','MG','PA','PB','PE','PI','RN', 'RS','RO','RR','SC','SP','SE','TO']
-let i=0;
-while(i<estados.length){
-console.log(i);
-console.log( estados[i]);
-i++;
-}
-for(let i=0;estados.length;i++){
-console.log(index);
-console.log(estados[index]);
+// let estados =['PR','RJ','AC','AL','AP','AM','BA','CE','DF', 'ES','GO','MA','MT','MS','MG','PA','PB','PE','PI','RN', 'RS','RO','RR','SC','SP','SE','TO']
+// let i=0;
+// while(i<estados.length){
+// console.log(i);    
+// console.log( estados[i]);
+// i++;
+// }
+// for(let i=0;estados.length;i++){
+// console.log(index);          
+// console.log(estados[index]);
 
-}
+// }
